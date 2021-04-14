@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @markonikic
+- 👀 I’m interested in Web Devlopment
+- 🌱 I’m currently in school for Computer Programming
+- 💞️ I’m looking to collaborate on Web Development jobs
+- 📫 You can reach me at my email (nikicmarko14@gmail.com)
