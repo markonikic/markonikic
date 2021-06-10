@@ -22,5 +22,5 @@ I'm Marko Nikic a Front End Web Developer. I Spend most of time coding outstandi
 
 
 #### Bizness
-- :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
+- :paperclip: [My Resume/CV](https://github.com/markonikic/markonikic/blob/main/Resume2021.pdf)
 - :email: nikicmarko14@gmail.com
