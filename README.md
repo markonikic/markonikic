@@ -8,7 +8,6 @@ I'm Marko Nikic a Front End Web Developer. I Spend most of time coding outstandi
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently a computer programming student
 - :computer: Most used line of code:   `git status`
 - 📫 How to reach me: nikicmarko14@gmail.com.
 - ⚡ Fun fact: I enjoy playing hockey.
